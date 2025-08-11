@@ -1,0 +1,7 @@
+./run_demo.sh
+
+
+./run_demo.sh --target scanme.nmap.org --no-server
+
+
+./run_demo.sh --no-open
